@@ -1,0 +1,17 @@
+{
+  "name": "label-relay",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "description": "A retry-aware shipping-label workflow toolkit with private PDFs and independent email/WhatsApp delivery.",
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "dependencies": {
+    "pdf-lib": "1.17.1"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
