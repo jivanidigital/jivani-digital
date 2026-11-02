@@ -1,4 +1,4 @@
-# Jivani Digital
+# Jivani Digital Toolkit
 
 Free, open-source tools for direct-to-consumer (D2C) brands and small operations teams.
 
@@ -27,6 +27,6 @@ The tests use synthetic data and fake providers. They do not buy shipping, book 
 
 The toolkit is free under the MIT license. There are no paid plans. Contributions, bug reports and documentation improvements are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md), [ROADMAP.md](ROADMAP.md) and [SECURITY.md](SECURITY.md).
 
-Existing private business repositories remain separate. Only reusable code and synthetic examples belong here; never add customer data, real labels, credentials or private business configuration.
+Only reusable code and synthetic examples belong here. Never add customer data, real labels, credentials or business account configuration.
 
 Each tool lives in its own folder. Future tools will be added when there is working code and documentation, rather than placeholder product claims.
