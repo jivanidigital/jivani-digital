@@ -5,6 +5,9 @@ permissions:
 jobs:
   test:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: tools/label-relay
     steps:
       - uses: actions/checkout@v4
       - uses: pnpm/action-setup@v4
@@ -14,5 +17,6 @@ jobs:
         with:
           node-version: 22
           cache: pnpm
+          cache-dependency-path: tools/label-relay/pnpm-lock.yaml
       - run: pnpm install --frozen-lockfile --ignore-scripts
       - run: pnpm test

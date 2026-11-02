@@ -1,16 +1,7 @@
 # Contributing
 
-This is an early project. Small, reviewable contributions are welcome.
+Choose a tool under `tools/` and follow its setup and test instructions. Start with an issue describing the problem, then submit a focused pull request with validation. Use synthetic data only.
 
-1. Open an issue describing the bug or proposed integration. Use synthetic data.
-2. Install dependencies with `pnpm install --frozen-lockfile` on Node 22+.
-3. Add a regression test for behavioral changes and run `pnpm test`.
-4. Open a pull request explaining behavior, validation and any provider assumptions.
+Label Relay's detailed guide is [here](tools/label-relay/CONTRIBUTING.md). New tools should include a README, sample data and meaningful offline verification. Do not publish real customer labels, credentials, private repository content or business configuration.
 
-Don't add real customer data, labels, credentials, account IDs or private links.
-Carrier adapters must verify existing AWBs/pickups and handle uncertain mutations
-without blind retries. Do not add live sending or shipment creation to tests.
-Keep integrations disabled until the operator configures and tests them.
-
-Contributions are made under the repository's MIT license. Be respectful and
-constructive in discussions.
+Code changes are reviewed before the owner merges them. Contributions use the MIT license. Be respectful and constructive.
