@@ -30,3 +30,7 @@ The toolkit is free under the MIT license. There are no paid plans. Contribution
 Only reusable code and synthetic examples belong here. Never add customer data, real labels, credentials or business account configuration.
 
 Each tool lives in its own folder. Future tools will be added when there is working code and documentation, rather than placeholder product claims.
+
+## For AI contributors
+
+Start with [AGENTS.md](AGENTS.md) and [docs/AI-HANDOVER.md](docs/AI-HANDOVER.md). Claude can use [CLAUDE.md](CLAUDE.md). See [CHANGELOG.md](CHANGELOG.md) for changes and [the application record](docs/claude-oss-application.md) for the Claude for Open Source submission context.
