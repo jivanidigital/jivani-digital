@@ -1,4 +1,6 @@
-# Jivani Digital Toolkit
+# D2C Label Relay
+
+Part of **[D2C Ops Kit](https://github.com/opskits/d2c-ops-kit)** by [opskits](https://github.com/opskits): free, open-source tools for D2C brands, one repository per tool.
 
 Free, open-source tools for direct-to-consumer (D2C) brands and small operations teams.
 

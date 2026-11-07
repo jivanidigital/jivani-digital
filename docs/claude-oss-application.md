@@ -1,5 +1,7 @@
 # Claude for Open Source application record
 
+Note (7 Nov 2026): the repository named in this application was renamed and moved to https://github.com/opskits/d2c-label-relay; GitHub redirects the old URL. The text below is kept unchanged as the record of what was prepared.
+
 Status: Ronak reported submitting on 2 Nov 2026. No approval reported or independently verified. Do not resubmit. This records the last prepared answers; the final submitted payload was not independently captured. Personal contact email is omitted from this public copy. Applicant: Ronak Jivani; GitHub: jivanidigital. Selected repository: https://github.com/jivanidigital/jivani-digital.
 
 The application page described six months of Claude Ultra through Claude for Open Source. This is the program Ronak referred to as the free Max program. An application does not confer eligibility or approval. No adoption figures were invented.

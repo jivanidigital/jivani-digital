@@ -2,7 +2,7 @@
 
 ## What we are building
 
-Jivani Digital Toolkit is a free, MIT-licensed collection of practical automation tools for D2C brands and small operations teams. Label Relay lives at tools/label-relay. New tools should be added with working code, documentation and synthetic examples, not placeholder claims.
+D2C Label Relay (formerly jivanidigital/jivani-digital, "Jivani Digital Toolkit"; renamed and moved to opskits/d2c-label-relay on 7 Nov 2026) is a free, MIT-licensed tool for D2C brands and small operations teams. It is listed in the D2C Ops Kit index (opskits/d2c-ops-kit); new tools get their own d2c-<tool> repository. Label Relay lives at tools/label-relay. New tools should be added with working code, documentation and synthetic examples, not placeholder claims.
 
 Ronak's company, Jivani Digital, is a digital marketing company. Public code remains free. Ronak may separately offer setup, customization, training, hosting and support to business owners who need help. No paid product or billing system is implemented here.
 
